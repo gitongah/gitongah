@@ -6,7 +6,7 @@ An Aspiring Entrepreneur, personable and passionate Full-Stack-Developer with em
 - 👯 I am seeking collaboration opportunities on projects involving large language models. If you have any projects or know of any teams working in this area, please let me know.
 - 🤔 I am seeking collaboration opportunities and assistance with projects involving large language models. If you have any projects or know of any teams working in this area, I would appreciate your support and insights.
 - 💬 Ask me about Web Design
-- 📫 How to reach me: ...
+- 📫 How to reach me:<a href="https://portforlio-nine.vercel.app/" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:mbaabugitonga@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/edwin-mbaabu-a07b7514a/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 - ⚡ Fun fact: I think I am funny
 
 
