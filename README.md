@@ -18,11 +18,11 @@ I am an aspiring entrepreneur and personable, passionate full-stack developer wi
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
- [![Edwin's github stats](https://bad-apple-github-readme.vercel.app/api?username=gitongah&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+![gitongah's Stats](https://github-readme-stats.vercel.app/api?username=gitongah&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=gitongah&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ ![gitongah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitongah&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
-[![Edwin Mbaabu's current streak](https://streak-stats.demolab.com/?user=gitongah&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+![gitongah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitongah&theme=midnight-purple&hide_border=true)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
